@@ -1,25 +1,23 @@
-import logo from './logo.svg';
+import React from 'react';
+import Header from './shared/layout/Header';
+import Content from './shared/layout/Content';
 import './App.css';
 
-function App() {
+import {element} from 'prop-types'; 
+
+function App(props) {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header title="API"/>
+      <Content>
+        {props.children}
+      </Content>
     </div>
   );
+}
+
+App.prototype = {
+  children: element.isRequired,
 }
 
 export default App;

@@ -1,0 +1,39 @@
+.Container {
+    background-image: url(../shared/images/espacio.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Carousel {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.Nosotros {
+    margin-top: 30px;
+    display: inline-block;
+    background-color: white;
+    border: 10px solid;
+    width: 90%;
+    border-color: #33609a;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+.Titulo {
+    font-size: 40px;
+    font-weight: bold;
+    color: #fdd835;
+    margin-bottom: 15px;
+}
+
+.Texto {
+    color: #000000;
+}
