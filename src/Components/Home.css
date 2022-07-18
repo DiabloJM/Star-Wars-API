@@ -28,6 +28,7 @@
 }
 
 .Titulo {
+    font-family: 'Star Jedi';
     font-size: 40px;
     font-weight: bold;
     color: #fdd835;
@@ -35,5 +36,13 @@
 }
 
 .Texto {
+    font-family: 'Star Jedi';
     color: #000000;
+}
+
+.Botones {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    padding-left: 500px;
 }
