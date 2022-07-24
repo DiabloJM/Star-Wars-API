@@ -4,6 +4,7 @@ import App from './App';
 import Home from './Components/Home';
 import Characters from './Components/Characters';
 import Planets from './Components/Planets';
+import DetailsCharacter from './Components/DetailsCharacter';
 
 const AppRoutes = () => (
     <App>
@@ -11,6 +12,7 @@ const AppRoutes = () => (
             <Route path='/' element={<Home/>}/>
             <Route path='/personajes' element={<Characters/>}/>
             <Route path='/planetas' element={<Planets/>}/>
+            <Route path='/detallesPersonaje' handler={<DetailsCharacter />}/>
         </Routes>
     </App>
 )

@@ -9,6 +9,7 @@ function Home(props) {
     return (
         <div className = "Container">
             <div className = "Carousel">
+                <div class="col-2"></div>
                 <Carousel/>
             </div>
 

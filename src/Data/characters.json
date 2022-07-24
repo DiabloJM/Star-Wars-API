@@ -1,0 +1,286 @@
+[
+    {
+        "info": {
+            "cantidad": 24,
+            "paginas": 2,
+            "siguiente": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personaje?pagina=2",
+            "prev": null
+        },
+        "resultados": [
+            {
+                "id": 1,
+                "nombre": "Luke Skywalker",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.72 m",
+                "nacimiento": "19 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/1",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d9/Luke-rotjpromo.jpg/revision/latest/scale-to-width-down/350?cb=20071214134433",
+                "descripcion": "Fue un humano sensible a la Fuerza y un Maestro Jedi quien, junto a su hermana gemela, la Princesa Leia Organa, luchó en contra del gobierno del Imperio Galáctico durante la Guerra Civil Galáctica. Hijo del Caballero Jedi Anakin Skywalker y de la Senadora Padmé Amidala de Naboo, Luke nació poco después del final de la Guerras Clon el 19 ABY. Como resultado de la muerte de su madre y de la caída de su padre al lado oscuro de la Fuerza, Luke fue enviado al planeta natal de Anakin, Tatooine, para vivir con sus relativos, Owen y Beru Lars, durante los primeros 19 años de su vida. Después de sus muertes a manos del Imperio, Luke se convirtió en aprendiz del antiguo maestro de su padre, Obi-Wan Kenobi, con el fin de aprender los caminos de la Fuerza y convertirse en un Jedi. Con la ayuda de los contrabandistas Han Solo y Chewbacca, Skywalker rescato a Leia Organa de las garras del Imperio, pero perdió a su maestro, quien murió mientras confrontaba al Lord Sith Darth Vader. En la Batalla de Yavin, Skywalker logró destruir la estación de batalla y superarma del Imperio, la Estrella de la Muerte, salvando así a la Alianza para Restaurar la República de la destrucción"
+            },
+            {
+                "id": 2,
+                "nombre": "Leia Organa",
+                "especie": "Humano",
+                "genero": "Femenino",
+                "altura": "1.55 m",
+                "nacimiento": "19 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/1",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/9b/Princessleiaheadwithgun.jpg/revision/latest?cb=20150117214124",
+                "descripcion": "Fue una política humana sensible a la Fuerza y una líder militar que sirvió en la Alianza para Restaurar la República durante la Era Imperial y en la Resistencia en la subsiguiente Era de la Nueva República. Adoptada en la Casa de Organa, la familia real alderaaniana, ella fue la Princesa Leia Organa de Alderaan, un planeta de los Mundos del Núcleo conocido por su dedicación al pacifismo. La princesa fue criada como la hija del Senador Bail Prestor Organa y su mujer, la Reina Breha Organa, lo que la convertía en la heredera de la monarquía alderaaniana. Inculcada con los valores de su mundo adoptivo, Organa dedicó su vida a la restauración de la democracia oponiéndose a regímenes autoritarios como el Imperio Galáctico y la Primera Orden"
+            },
+            {
+                "id": 3,
+                "nombre": "Han Solo",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.8 m",
+                "nacimiento": "29 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/2",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/f/fe/Han_Solo%27s_blaster.jpg/revision/latest?cb=20151030182246",
+                "descripcion": "Anteriormente conocido como Han antes de que un Oficial de Reclutamiento Imperial le diera el apellido Solo, era un hombre humano contrabandista que se convirtió en un líder en la Alianza para Restaurar la República y una figura instrumental en la derrota del Imperio Galáctico durante la Guerra Civil Galáctica. Él procedía de Corellia y se convirtió en un contrabandista al servicio de Jabba el Hutt, incluso completando el Corredor de Kessel en menos de trece parsecs con su preciada nave, el Halcón Milenario. Era el yerno del Caballero Jedi caído Anakin Skywalker y la Senadora Padmé Amidala, esposo de la Princesa Leia Organa, cuñado del Maestro Jedi Luke Skywalker, padre de Ben Solo, rivales y amigos cercanos de su contrabandista Lando Calrissian y mejores amigos de Chewbacca, su copiloto de confianza que juró una deuda de vida con el contrabandista corelliano. Solo entró en conflicto con Jabba después de deshacerse de un cargamento de especias para evitar problemas con el Imperio, lo que le debió al Hutt una gran cantidad de dinero como resultado. Su fortuna parecía haber cambiado cuando acordó contratar a Luke Skywalker, Obi-Wan Kenobi, y los droides R2-D2 y C-3PO a Alderaan, pero quedó atrapado en la rebelión contra el Imperio y, después de ayudar a escapar a Leia Organa de la Estrella de la Muerte, luchó brevemente en la Batalla de Yavin, lo que permitió a Skywalker destruir la superarma. Solo luchó con la Rebelión durante varios años después, participando en numerosas operaciones y batallas contra el Imperio."
+            },
+            {
+                "id": 4,
+                "nombre": "Chewbacca",
+                "especie": "Wookiee",
+                "genero": "Masculino",
+                "altura": "2.3 m",
+                "nacimiento": "200 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/4",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/5/51/Chewbacca_TLJ.PNG/revision/latest/scale-to-width-down/350?cb=20190419143715",
+                "descripcion": "Llamado afectuosamente Chewie por sus amigos, fue un guerrero wookiee, un contrabandista y un luchador de resistencia que peleó en las Guerras Clon, la Guerra Civil Galáctica y el Guerra Fría. Fue criado en el planeta Kashyyyk y se convirtió en un líder militar. Durante las Guerras Clon, fue capturado por esclavistas trandoshanos y hecho prisionero en Wasskah, donde trabajó con otra cautiva, la Comandante Jedi Ahsoka Tano, para escapar. Más tarde comandó a las fuerzas wokiees durante la Batalla de Kashyyyk junto al Gran Ejército de la República, liderado por el Maestro Jedi Yoda. Durante la batalla, una de las últimas de la guerra, los soldados clon de Yoda recibieron la Orden 66 del Canciller Supremo Sheev Palpatine y, con la ayuda de Chewbacca, Yoda escapó de Kashyyyk y la destrucción de la Orden Jedi"
+            },
+            {
+                "id": 5,
+                "nombre": "Lando Calrissian",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.78 m",
+                "nacimiento": "31 ABY",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/7/7d/Lando_WoSW.jpg/revision/latest/scale-to-width-down/342?cb=20090602222228",
+                "descripcion": "Fue un apostador profesional, empresario, contrabandista y general. Se convirtió en apostador y estafador en sus primeros años de vida, eventualmente ganando su propia nave, el Halcón Milenario, en un juego de sabacc a un hombre llamado Cix Trouvee. Tuvo muchas aventuras con el Halcón y su droide piloto, Vuffi Raa, y en ellas se enemistó con un Hechicero de Tund llamado Rokur Gepta, a quien Calrissian terminó dando muerte. Después de que una serie de sucesos resultaran en que perdiera el Halcón Milenario ante un corelliano llamado Han Solo en Bespin, Calrissian acabó convirtiéndose en Barón Administrador de la Ciudad de las Nubes por un tiempo—cargo que también adquirió jugando sabacc"
+            },
+            {
+                "id": 6,
+                "nombre": "Padme Amidala",
+                "especie": "Humano",
+                "genero": "Femenino",
+                "altura": "1.65 m",
+                "nacimiento": "46 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/10",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/b/b4/Padme_episodeIII_green.png/revision/latest/scale-to-width-down/344?cb=20120308181142",
+                "descripcion": "Fue una humana política que se convirtió en una de las principales voces para la paz y la diplomacia durante los últimos días de la República Galáctica. Ella saltó a la prominencia galáctica cuando la Federación de Comercio invadió y ocupó su planeta natal de Naboo, pasó a servir como una destacada miembro del Senado Galáctico durante la Guerra de los Clones, y se convirtió en la madre de la legendaria Princesa y General Leia Organa y el Maestro Jedi Luke Skywalker"
+            },
+            {
+                "id": 7,
+                "nombre": "Anakin Skywalker",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.88 m",
+                "nacimiento": "41 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/9",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest/scale-to-width-down/350?cb=20160226204939",
+                "descripcion": "Un hombre humano sensible a la Fuerza, fue un Caballero Jedi de la República Galáctica y el Elegido de la Fuerza. Durante las Guerras Clon, sus logros como comandante en el campo de batalla le valieron el apodo del Héroe Sin Miedo"
+            },
+            {
+                "id": 8,
+                "nombre": "Mace Windu",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.92 m",
+                "nacimiento": "72 ABY",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/f/fc/Mace_Windu.jpg/revision/latest/scale-to-width-down/350?cb=20150925220911",
+                "descripcion": "Maestro Jedi humano y miembro del Alto Consejo Jedi durante los últimos días de la República Galáctica. Nacido en el planeta Haruun Kal, Windu fue entrenado en los caminos de la Fuerza debido a su fuerte conexión con ella. Al ascender al rango de Maestro, empezó a ser conocido como el campeón de la Orden Jedi, un honor que acarreó hasta años después de su muerte. En algún punto de su carrera, Windu pasó a servir como Maestro de la Orden, el líder electo de la Orden Jedi"
+            },
+            {
+                "id": 9,
+                "nombre": "Obi-Wan Kenobi",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.82 m",
+                "nacimiento": "57 ABY",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://static.wikia.nocookie.net/cartoonnetwork/images/0/0e/Obi-Wan_Kenobi_imagen.jpg/revision/latest?cb=20151213033541&path-prefix=es",
+                "descripcion": "Fue un legendario Maestro Jedi humano que sirvió en el Alto Consejo Jedi durante los últimos añosde la Era de la República. Como General Jedi, Kenobi sirvió en el Gran Ejército de la República durante las Guerras Clon. Kenobi, sin embargo, se vio obligado a exiliarse como resultado de la Gran Purga Jedi. Como mentor, Kenobi fue responsable del entrenamiento de dos miembros de la familia Skywalker, Anakin Skywalker y Luke Skywalker, sirviendo ambos como su Padawan para aprender los caminos de la Fuerza"
+            },
+            {
+                "id": 10,
+                "nombre": "General Gribous",
+                "especie": "Kaleesh",
+                "genero": "Masculino",
+                "altura": "2.16 m",
+                "nacimiento": "DESCONOCIDO",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/de/Grievoushead.jpg/revision/latest/scale-to-width-down/350?cb=20101204131756",
+                "descripcion": "Fue un señor de la guerra kaleesh que sirvió como oficial al mando en las fuerzas armadas de la Confederación de Sistemas Independientes durante los últimos años de la República Galáctica. Aunque era conocido por su rango de general, Grievous era el Comandante Supremo del Ejército Droide Separatista que hizo frente al Gran Ejército de la República a lo largo del conflicto pan-galáctico conocido como las Guerras Clon. Célebre por su crueldad y sus extensas mejoras cibernéticas, Grievous inspiraba miedo mientras viajaba por la galaxia, invadiendo mundos enteros y enfrentándose a los Caballeros Jedi de la República"
+            },
+            {
+                "id": 11,
+                "nombre": "C3PO",
+                "especie": "Droide",
+                "genero": "Masculino",
+                "altura": "1.77 m",
+                "nacimiento": "Antes del 32 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/9",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png/revision/latest/scale-to-width-down/243?cb=20200718062140",
+                "descripcion": "Un droide de protocolo unidad 3PO diseñado para interactuar con seres orgánicos, programado principalmente para la etiqueta y el protocolo. Hablaba con fluidez más de siete millones de formas de comunicación, y desarrolló una personalidad exigente y propensa a las preocupaciones a lo largo de sus muchas décadas de operación. Junto con su contraparte, el droide astromecánico R2-D2, C-3PO constantemente se encontró involucrado directamente en momentos cruciales de la historia galáctica, y ayudó a salvar la galaxia en muchas ocasiones"
+            },
+            {
+                "id": 12,
+                "nombre": "R2-D2",
+                "especie": "Droide",
+                "genero": "Masculino",
+                "altura": "1.08 m",
+                "nacimiento": "DESCONOCIDO",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/10",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest/scale-to-width-down/337?cb=20150926172435",
+                "descripcion": "Un droide astromecánico serie R2 manufacturado por Industrias Automaton con programación masculina. Un ingenioso y valiente droide, R2-D2 sirvió a una multitud de maestros a lo largo de su vida. R2 nunca recibió un borrado completo de memoria ni recibió programación nueva, lo que resultó en su actitud aventurera e independiente. A menudo viéndose implicado en momento vitales de la historia galáctica, su valentía e ingenio salvaron a la galaxia repetidas veces"
+            }
+        ]
+    },
+    {
+        "info": {
+            "cantidad": 24,
+            "paginas": 2,
+            "siguiente": null,
+            "prev": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personaje?pagina=1"
+        },
+        "resultados": [
+            {
+                "id": 13,
+                "nombre": "Yoda",
+                "especie": "DESCONOCIDO",
+                "genero": "Masculino",
+                "altura": "0.66 m",
+                "nacimiento": "896 ABY",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d6/Yoda_SWSB.png/revision/latest/scale-to-width-down/350?cb=20180105191224",
+                "descripcion": "Era un reverenciado Maestro Jedi que sirvió como Gran Maestro de la Orden Jedi en los últimos días de la República Galáctica. Era famoso dentro de la Orden por su sabiduría, poderes de la Fuerza y combate con sables de luz, y vivió durante casi 900 años. Su tiempo durante los últimos días de la Orden Jedi y más allá lo convirtió en una figura consecuente en la historia galáctica"
+            },
+            {
+                "id": 14,
+                "nombre": "Dooku",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.93 m",
+                "nacimiento": "102 ABY",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/b/b8/Dooku_Headshot.jpg/revision/latest/scale-to-width-down/350?cb=20200115140857",
+                "descripcion": "Fue un Lord Sith que lideró la Confederación de Sistemas Independientes como Jefe de Estado durante las Guerras Clon. A pesar de que una vez fue un Maestro Jedi, Dooku dejó la Orden Jedi y la República Galáctica después de desilusionarse con la corrupción en el gobierno. Dando la espalda a la luz, Dooku se unió al lado oscuro de la Fuerza y se convirtió en el aprendiz de Darth Sidious, un Señor Oscuro de los Sith, tomando el nombre de Darth Tyranus y reclamando su título como el Conde de Serenno. Con su maestro, que era secretamente el Canciller Supremo Sheev Palpatine, Dooku conspiró para derrocar tanto a la República como a los Jedi para que los Sith pudieran reclamar su anterior dominio. Con este fin, supervisó un creciente movimiento Separatista que finalmente resultó en la formación de la Confederación de Sistemas Independientes. Además de reunir a cientos de sistemas estelares rebeldes para la causa Separatista, Dooku estuvo involucrado en la creación de los soldados clon del Gran Ejército de la República, suministrando a los kaminoanos una plantilla de clonación, Jango Fett, así como un biochip de modificación conductual que contenía el Protocolo Clon 66. Como resultado de las maquinaciones de Dooku y Sidious, la galaxia se vio envuelta en las Guerras Clon en el 22 ABY"
+            },
+            {
+                "id": 15,
+                "nombre": "Darth Sidious",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.73 m",
+                "nacimiento": "84 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/10",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/98/Palpatine-TROS-infobox.jpg/revision/latest/scale-to-width-down/350?cb=20200423044005",
+                "descripcion": "Nacido como Sheev Palpatine y también conocido simplemente como el Emperador, fue un hombre humano Señor Oscuro de los Sith y Emperador del Imperio Galáctico, que gobernó desde el 19 ABY hasta el 4 DBY. Ascendiendo al poder en el Senado de la República como senador de Naboo, el Lord Sith en secreto conservó dos identidades, Sidious y Palpatine, usando ambas para avanzar en su carrera política. Orquestando la caída de la República Galáctica y de la Orden Jedi a través de las Guerras Clon, y luego estableciendo su reinado sobre la galaxia que duró hasta su muerte en la Batalla de Endor. Sin embargo, el lado oscuro de la Fuerza dio lugar a poderes que permitieron al Emperador regresar de la tumba"
+            },  
+            {
+                "id": 16,
+                "nombre": "Rex",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.83 m",
+                "nacimiento": "32 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/5",
+                "imagen": "https://static.wikia.nocookie.net/disney/images/3/3a/Captain_Rex_3.jpg/revision/latest?cb=20170322024507&path-prefix=es",
+                "descripcion": "Su designación era CT-7567 fue un veterano Capitán Clon que dirigió la aclamada Legión 501 del Gran Ejército de la República durante las Guerras Clon. Rex sirvió más adelante como capitán y comandante en la Alianza para Restaurar la República durante la Guerra Civil Galáctica. Criado y entrenado en Kamino, CT-7567 entró al servicio de la República Galáctica en la Batalla de Geonosis, en el 22 ABY. 7567 se forjó la reputación de un honorable comandante ante Jedi y soldados clon por igual, llegando a ser conocido como uno de los mejores y más duros soldados del Gran Ejército de la República. Con el tiempo, tomó el apodo de Rex. Como capitán de la 501, Rex sirvió como segundo al mando del General Jedi Anakin Skywalker, cuya valentía y heterodoxia en batalla llegó a compartir. Rex fue muy amigo del Comandante Clon Mariscal Cody, cuya relación era un reflejo de la de sus respectivos Generales Jedi, Skywalker y Obi-Wan Kenobi. Los cuatro a menudo recibieron misiones conjuntas para coordinar sus campañas en primera línea contra la Confederación de Sistemas Independientes"
+            },
+            {
+                "id": 17,
+                "nombre": "Boba Fett",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.83 m",
+                "nacimiento": "32 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/5",
+                "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/11/1193126-scaled.jpg?fit=1200%2C675&quality=50&strip=all&ssl=1",
+                "descripcion": "Fue un cazarrecompensas humano, y el clon del infame cazarrecompensas Jango Fett. Boba fue creado por los clonadores de Kamino y era físicamente idéntico a los soldados clon creados para el Gran Ejército de la República, aunque Boba fue inalterado y no creció aceleradamente como los demás clones. Criado como el hijo de Jango, Boba aprendió las habilidades de combate necesarias para algún día convertirse en cazarrecompensas por derecho propio"
+            },
+            {
+                "id": 18,
+                "nombre": "Darth Vader",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "2.03 m",
+                "nacimiento": "19 ABY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/6",
+                "imagen": "https://i.redd.it/yriap9fnk6u71.jpg",
+                "descripcion": "Una vez que fue un heroico Caballero Jedi, Darth Vader fue seducido por el lado oscuro de la Fuerza, se convirtió en un Lord Sith y lideró la erradicación de la Orden Jedi por parte del Imperio. Permaneció al servicio del Emperador, el malvado Darth Sidious, durante décadas, haciendo cumplir la voluntad de su Maestro y tratando de aplastar a la incipiente Alianza Rebelde. Pero todavía había bien en él"
+            },
+            {
+                "id": 19,
+                "nombre": "Rey",
+                "especie": "Humano",
+                "genero": "Femenino",
+                "altura": "1.7 m",
+                "nacimiento": "35 DBY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/3",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/2/2b/Rey_TROS_Fathead.png/revision/latest/scale-to-width-down/326?cb=20191018183720",
+                "descripcion": "Una mujer humana sensible a la Fuerza, fue una Jedi que luchó por la Resistencia contra la Primera Orden durante la Era de la Nueva República. Aunque nació como Rey Palpatine, no era consciente de su linaje como nieta del Emperador Sheev Palpatine y se refirió a sí misma simplemente como Rey, creyendo que no era nadie. Endurecida por los duros desiertos de Jakku, Rey aprendió a sobrevivir como carroñera, convirtiéndose en una hábil mecánica, piloto y combatiente en el proceso. Después de descubrir su conexión latente con la Fuerza, Rey se esforzó por aprender el camino de los Jedi mientras intentaba entender su vínculo con el Líder Supremo Kylo Ren"
+            },
+            {
+                "id": 20,
+                "nombre": "Finn",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.78 m",
+                "nacimiento": "11 DBY",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/92/Finn_Advanced_Graphics_TROS.png/revision/latest?cb=20200105031349",
+                "descripcion": "Finn fue el apodo de FN-2187, un soldado de asalto humano sensible a la Fuerza que sirvió a la Primera Orden hasta su huida y posterior deserción a la Resistencia durante la Guerra Primera Orden-Resistencia. Aunque entrenado desde el nacimiento para ser un soldado leal y obediente, la conciencia de FN-2187 entró en conflicto con los métodos de la Primera Orden. Durante un tiempo no estuvo dispuesto a apoyar a la Resistencia, con la esperanza de escapar del conflicto galáctico en lugar de luchar por una causa que creía estaba condenada al fracaso. A medida que la galaxia se consumía por la guerra, el soldado renegado se vio finalmente obligado a decidir dónde estaban sus verdaderas lealtades"
+            },
+            {
+                "id": 21,
+                "nombre": "Kylo Ren",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.89 m",
+                "nacimiento": "5 DBY",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://i0.wp.com/wipy.tv/wp-content/uploads/2020/02/Significado-del-casco-de-Kylo-Ren.jpg?fit=1000%2C600&ssl=1",
+                "descripcion": "Fue un hombre humano sensible a la Fuerza que, siendo maestro de los Caballeros de Ren, conquistó gran parte de la galaxia durante su reinado como Líder Supremo de la Primera Orden. La Fuerza era intensa en Ren; además de su entrenamiento Jedi y su conocimiento del saber arcano del lado oscuro, el linaje de los Jedi y Sith más poderosos fluía por sus venas. Fue la encarnación del conflicto debido a su inmersión en las enseñanzas de ambos lados, pero fue a través de la discordia que obtuvo el poder, canalizando la ira en poder. Finalmente, Ren estaba decidido a extinguir el lado luminoso dentro de sí mismo y destruir los últimos rastros de la Orden Jedi, cumpliendo el legado de su abuelo, el Lord Sith Darth Vader"
+            },
+            {
+                "id": 22,
+                "nombre": "Snoke",
+                "especie": "Artificial",
+                "genero": "Masculino",
+                "altura": "2.18 m",
+                "nacimiento": "4 DBY",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/9d/SnokeTLJ.png/revision/latest/scale-to-width-down/350?cb=20180113005803",
+                "descripcion": "Fue una creación genética humanoide que gobernó la Primera Orden como Líder Supremo durante la Era de la Nueva República. Posiblemente inconsciente de su verdadera naturaleza, Snoke era una invención genética artificial creada en el planeta Exegol por el resucitado Señor Oscuro de los Sith y Emperador Galáctico Darth Sidious. Aunque fue diseñado para ser un conducto que el Lord Sith pudiera manipular, Snoke poseía una mente independiente y una conexión profunda con el lado oscuro de la Fuerza, sin embargo, no era un Sith. Tenía un profundo conocimiento de la tradición arcana y redescubrió muchos de los secretos perdidos sobre la Fuerza dentro de las Regiones Desconocidas, mientras derrotaba a innumerables adversarios con su astuta manipulación y dominio de la Fuerza"
+            },
+            {
+                "id": 23,
+                "nombre": "Wilhuff Tarkin",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.8 m",
+                "nacimiento": "64-59 ABY",
+                "planeta": "DESCONOCIDO",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/c/c1/Tarkininfobox.jpg/revision/latest/top-crop/width/360/height/450?cb=20160918123818",
+                "descripcion": "Fue un humano que llegó a ser de los más importantes oficiales del Imperio Galáctico, uno de los primeros en obtener el alto rango de Gran Moff. Fue el creador de la doctrina Tarkin, la cual tuvo su encarnación clave en la Estrella de la Muerte. Era nativo del planeta Eriadu, donde la familia Tarkin tenía una larga historia política. Tarkin inició su carrera sirviendo en la fuerza de seguridad de la República de las regiones exteriores. Después se retiró y entró en la política, iniciando como Gobernador Teniente de Eriadu y el Sector Seswenna. Después de esto volvió a la milicia bajo las órdenes del Canciller Supremo Palpatine, ganando poder hasta llegar a ser gobernador de macrosectores bajo el título de Gran Moff. Durante este tiempo, Tarkin conoció los diseños de su amigo Raith Sienar de una estación de batalla planetaria y expedicionaria. Convencido del potencial del diseño, Tarkin le presentó los diseños a Palpatine, diseños de una estación que más tarde se convertiría en la temible Primera Estrella de la Muerte"
+            },
+            {
+                "id": 24,
+                "nombre": "Poe Dameron",
+                "especie": "Humano",
+                "genero": "Masculino",
+                "altura": "1.72 m",
+                "nacimiento": "2 DBY",
+                "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/7",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/8/8a/Poe_Dameron_Advanced_Graphics_TROS.png/revision/latest?cb=20200105031746",
+                "descripcion": "Fue un piloto humano que sirvió como comandante en la Nueva República y, más tarde, la Resistencia durante su conflicto con la Primera Orden. Hijo de la Teniente Shara Bey y del Sargento Kes Dameron de la Alianza para Restaurar la República, Dameron siguió los pasos de su madre y se convirtió en piloto al servicio de la Flota de Defensa de la Nueva República como comandante del Escuadrón Estoque, pero se desilusionó con la inacción de la República frente a las violaciones del Concordato Galáctico por parte de la Primera Orden. Dameron desertó a la Resistencia, donde se convirtió en uno de los operativos más confiables de la General Leia Organa. Dameron voló bajo el indicativo de Líder Negro mientras pilotaba su caza estelar T-70 Ala-X especializado, Negro Uno"
+            }
+        ]
+    }
+]

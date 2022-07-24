@@ -15,7 +15,7 @@ class DemoCarousel extends Component {
                 infiniteLoop={true} 
                 showStatus={false} 
                 showThumbs={false} 
-                width="70%"
+                width="80%"
             >
                 <div>
                     <img src={jedi} />
