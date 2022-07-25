@@ -12,7 +12,7 @@ const AppRoutes = () => (
             <Route path='/' element={<Home/>}/>
             <Route path='/personajes' element={<Characters/>}/>
             <Route path='/planetas' element={<Planets/>}/>
-            <Route path='/detallesPersonaje' handler={<DetailsCharacter />}/>
+            <Route path='/detallesPersonaje/:nombre' render={(props) => <DetailsCharacter {...props} />}/>
         </Routes>
     </App>
 )

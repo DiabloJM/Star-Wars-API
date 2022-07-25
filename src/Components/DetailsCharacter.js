@@ -1,10 +1,16 @@
 import React from 'react';
-import {useParams} from 'react-router-dom';
 import Planet from './Planet';
 
-export default function DetailsCharacter(){
-     const {nombre, especie, genero, altura, nacimiento, planeta, imagen, descripcion} = useParams();
- 
+export default function DetailsCharacter (params){
+    const {nombre} = params.nombre;
+    const {imagen} = params.imagen;
+    const {especie} = params.especie;
+    const {genero} = params.genero;
+    const {altura} = params.altura;
+    const {nacimiento} = params.nacimiento;
+    const {planeta} = params.planeta;
+    const {descripcion} = params.descripcion;
+
     return(
         <div className="main">
             <h1>{nombre}</h1>

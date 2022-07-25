@@ -9,6 +9,8 @@ export default function Planet(props){
                 <img 
                     src={imagen}
                     alt={nombre}
+                    width="500"
+                    height="300"
                     className="card-img-top"
                 />
                 <div className="card-body">

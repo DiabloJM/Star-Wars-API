@@ -15,7 +15,7 @@
                 "altura": "1.72 m",
                 "nacimiento": "19 ABY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/1",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d9/Luke-rotjpromo.jpg/revision/latest/scale-to-width-down/350?cb=20071214134433",
+                "imagen": "https://wipy.tv/wp-content/uploads/2020/02/Luke-Skywalker-se-iba-a-llamar-Luke-Starkiller-2-1200x675.jpg",
                 "descripcion": "Fue un humano sensible a la Fuerza y un Maestro Jedi quien, junto a su hermana gemela, la Princesa Leia Organa, luchó en contra del gobierno del Imperio Galáctico durante la Guerra Civil Galáctica. Hijo del Caballero Jedi Anakin Skywalker y de la Senadora Padmé Amidala de Naboo, Luke nació poco después del final de la Guerras Clon el 19 ABY. Como resultado de la muerte de su madre y de la caída de su padre al lado oscuro de la Fuerza, Luke fue enviado al planeta natal de Anakin, Tatooine, para vivir con sus relativos, Owen y Beru Lars, durante los primeros 19 años de su vida. Después de sus muertes a manos del Imperio, Luke se convirtió en aprendiz del antiguo maestro de su padre, Obi-Wan Kenobi, con el fin de aprender los caminos de la Fuerza y convertirse en un Jedi. Con la ayuda de los contrabandistas Han Solo y Chewbacca, Skywalker rescato a Leia Organa de las garras del Imperio, pero perdió a su maestro, quien murió mientras confrontaba al Lord Sith Darth Vader. En la Batalla de Yavin, Skywalker logró destruir la estación de batalla y superarma del Imperio, la Estrella de la Muerte, salvando así a la Alianza para Restaurar la República de la destrucción"
             },
             {
@@ -26,7 +26,7 @@
                 "altura": "1.55 m",
                 "nacimiento": "19 ABY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/1",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/9b/Princessleiaheadwithgun.jpg/revision/latest?cb=20150117214124",
+                "imagen": "https://nerdreactor.com/wp-content/uploads/2013/09/princess-leia.jpg",
                 "descripcion": "Fue una política humana sensible a la Fuerza y una líder militar que sirvió en la Alianza para Restaurar la República durante la Era Imperial y en la Resistencia en la subsiguiente Era de la Nueva República. Adoptada en la Casa de Organa, la familia real alderaaniana, ella fue la Princesa Leia Organa de Alderaan, un planeta de los Mundos del Núcleo conocido por su dedicación al pacifismo. La princesa fue criada como la hija del Senador Bail Prestor Organa y su mujer, la Reina Breha Organa, lo que la convertía en la heredera de la monarquía alderaaniana. Inculcada con los valores de su mundo adoptivo, Organa dedicó su vida a la restauración de la democracia oponiéndose a regímenes autoritarios como el Imperio Galáctico y la Primera Orden"
             },
             {
@@ -37,7 +37,7 @@
                 "altura": "1.8 m",
                 "nacimiento": "29 ABY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/2",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/f/fe/Han_Solo%27s_blaster.jpg/revision/latest?cb=20151030182246",
+                "imagen": "https://www.enter.co/wp-content/uploads/2016/06/han-solo-1.jpg",
                 "descripcion": "Anteriormente conocido como Han antes de que un Oficial de Reclutamiento Imperial le diera el apellido Solo, era un hombre humano contrabandista que se convirtió en un líder en la Alianza para Restaurar la República y una figura instrumental en la derrota del Imperio Galáctico durante la Guerra Civil Galáctica. Él procedía de Corellia y se convirtió en un contrabandista al servicio de Jabba el Hutt, incluso completando el Corredor de Kessel en menos de trece parsecs con su preciada nave, el Halcón Milenario. Era el yerno del Caballero Jedi caído Anakin Skywalker y la Senadora Padmé Amidala, esposo de la Princesa Leia Organa, cuñado del Maestro Jedi Luke Skywalker, padre de Ben Solo, rivales y amigos cercanos de su contrabandista Lando Calrissian y mejores amigos de Chewbacca, su copiloto de confianza que juró una deuda de vida con el contrabandista corelliano. Solo entró en conflicto con Jabba después de deshacerse de un cargamento de especias para evitar problemas con el Imperio, lo que le debió al Hutt una gran cantidad de dinero como resultado. Su fortuna parecía haber cambiado cuando acordó contratar a Luke Skywalker, Obi-Wan Kenobi, y los droides R2-D2 y C-3PO a Alderaan, pero quedó atrapado en la rebelión contra el Imperio y, después de ayudar a escapar a Leia Organa de la Estrella de la Muerte, luchó brevemente en la Batalla de Yavin, lo que permitió a Skywalker destruir la superarma. Solo luchó con la Rebelión durante varios años después, participando en numerosas operaciones y batallas contra el Imperio."
             },
             {
@@ -48,7 +48,7 @@
                 "altura": "2.3 m",
                 "nacimiento": "200 ABY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/4",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/5/51/Chewbacca_TLJ.PNG/revision/latest/scale-to-width-down/350?cb=20190419143715",
+                "imagen": "https://www.tonica.la/__export/1608834317696/sites/debate/img/2020/12/24/chewbacca-star-wars-legends.jpg_423682103.jpg",
                 "descripcion": "Llamado afectuosamente Chewie por sus amigos, fue un guerrero wookiee, un contrabandista y un luchador de resistencia que peleó en las Guerras Clon, la Guerra Civil Galáctica y el Guerra Fría. Fue criado en el planeta Kashyyyk y se convirtió en un líder militar. Durante las Guerras Clon, fue capturado por esclavistas trandoshanos y hecho prisionero en Wasskah, donde trabajó con otra cautiva, la Comandante Jedi Ahsoka Tano, para escapar. Más tarde comandó a las fuerzas wokiees durante la Batalla de Kashyyyk junto al Gran Ejército de la República, liderado por el Maestro Jedi Yoda. Durante la batalla, una de las últimas de la guerra, los soldados clon de Yoda recibieron la Orden 66 del Canciller Supremo Sheev Palpatine y, con la ayuda de Chewbacca, Yoda escapó de Kashyyyk y la destrucción de la Orden Jedi"
             },
             {
@@ -59,7 +59,7 @@
                 "altura": "1.78 m",
                 "nacimiento": "31 ABY",
                 "planeta": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/7/7d/Lando_WoSW.jpg/revision/latest/scale-to-width-down/342?cb=20090602222228",
+                "imagen": "https://m.media-amazon.com/images/I/41srkaJZ7sL._AC_.jpg",
                 "descripcion": "Fue un apostador profesional, empresario, contrabandista y general. Se convirtió en apostador y estafador en sus primeros años de vida, eventualmente ganando su propia nave, el Halcón Milenario, en un juego de sabacc a un hombre llamado Cix Trouvee. Tuvo muchas aventuras con el Halcón y su droide piloto, Vuffi Raa, y en ellas se enemistó con un Hechicero de Tund llamado Rokur Gepta, a quien Calrissian terminó dando muerte. Después de que una serie de sucesos resultaran en que perdiera el Halcón Milenario ante un corelliano llamado Han Solo en Bespin, Calrissian acabó convirtiéndose en Barón Administrador de la Ciudad de las Nubes por un tiempo—cargo que también adquirió jugando sabacc"
             },
             {
@@ -70,7 +70,7 @@
                 "altura": "1.65 m",
                 "nacimiento": "46 ABY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/10",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/b/b4/Padme_episodeIII_green.png/revision/latest/scale-to-width-down/344?cb=20120308181142",
+                "imagen": "https://1.bp.blogspot.com/-4HG33BrtDZE/VXG8LxQt_1I/AAAAAAAAC04/nHKrFSoab_8/s1600/Padme-SWE.jpg",
                 "descripcion": "Fue una humana política que se convirtió en una de las principales voces para la paz y la diplomacia durante los últimos días de la República Galáctica. Ella saltó a la prominencia galáctica cuando la Federación de Comercio invadió y ocupó su planeta natal de Naboo, pasó a servir como una destacada miembro del Senado Galáctico durante la Guerra de los Clones, y se convirtió en la madre de la legendaria Princesa y General Leia Organa y el Maestro Jedi Luke Skywalker"
             },
             {
@@ -81,7 +81,7 @@
                 "altura": "1.88 m",
                 "nacimiento": "41 ABY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/9",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest/scale-to-width-down/350?cb=20160226204939",
+                "imagen": "http://pm1.narvii.com/6726/b18d390ce2ddf3a897c311921926715d7245f4d5v2_00.jpg",
                 "descripcion": "Un hombre humano sensible a la Fuerza, fue un Caballero Jedi de la República Galáctica y el Elegido de la Fuerza. Durante las Guerras Clon, sus logros como comandante en el campo de batalla le valieron el apodo del Héroe Sin Miedo"
             },
             {
@@ -92,7 +92,7 @@
                 "altura": "1.92 m",
                 "nacimiento": "72 ABY",
                 "planeta": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/f/fc/Mace_Windu.jpg/revision/latest/scale-to-width-down/350?cb=20150925220911",
+                "imagen": "https://wipy.tv/wp-content/uploads/2020/07/mace-windu-1200x900.jpg",
                 "descripcion": "Maestro Jedi humano y miembro del Alto Consejo Jedi durante los últimos días de la República Galáctica. Nacido en el planeta Haruun Kal, Windu fue entrenado en los caminos de la Fuerza debido a su fuerte conexión con ella. Al ascender al rango de Maestro, empezó a ser conocido como el campeón de la Orden Jedi, un honor que acarreó hasta años después de su muerte. En algún punto de su carrera, Windu pasó a servir como Maestro de la Orden, el líder electo de la Orden Jedi"
             },
             {
@@ -103,7 +103,7 @@
                 "altura": "1.82 m",
                 "nacimiento": "57 ABY",
                 "planeta": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/cartoonnetwork/images/0/0e/Obi-Wan_Kenobi_imagen.jpg/revision/latest?cb=20151213033541&path-prefix=es",
+                "imagen": "https://mx.web.img3.acsta.net/r_654_368/newsv7/21/06/19/17/33/5124299.png",
                 "descripcion": "Fue un legendario Maestro Jedi humano que sirvió en el Alto Consejo Jedi durante los últimos añosde la Era de la República. Como General Jedi, Kenobi sirvió en el Gran Ejército de la República durante las Guerras Clon. Kenobi, sin embargo, se vio obligado a exiliarse como resultado de la Gran Purga Jedi. Como mentor, Kenobi fue responsable del entrenamiento de dos miembros de la familia Skywalker, Anakin Skywalker y Luke Skywalker, sirviendo ambos como su Padawan para aprender los caminos de la Fuerza"
             },
             {
@@ -114,7 +114,7 @@
                 "altura": "2.16 m",
                 "nacimiento": "DESCONOCIDO",
                 "planeta": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/de/Grievoushead.jpg/revision/latest/scale-to-width-down/350?cb=20101204131756",
+                "imagen": "https://www.somosxbox.com/wp-content/uploads/2017/12/general-grievous.jpg?mrf-size=m",
                 "descripcion": "Fue un señor de la guerra kaleesh que sirvió como oficial al mando en las fuerzas armadas de la Confederación de Sistemas Independientes durante los últimos años de la República Galáctica. Aunque era conocido por su rango de general, Grievous era el Comandante Supremo del Ejército Droide Separatista que hizo frente al Gran Ejército de la República a lo largo del conflicto pan-galáctico conocido como las Guerras Clon. Célebre por su crueldad y sus extensas mejoras cibernéticas, Grievous inspiraba miedo mientras viajaba por la galaxia, invadiendo mundos enteros y enfrentándose a los Caballeros Jedi de la República"
             },
             {
@@ -125,7 +125,7 @@
                 "altura": "1.77 m",
                 "nacimiento": "Antes del 32 ABY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/9",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png/revision/latest/scale-to-width-down/243?cb=20200718062140",
+                "imagen": "https://www.cinemascomics.com/wp-content/uploads/2019/09/star-wars-c-3po.jpg?mrf-size=m",
                 "descripcion": "Un droide de protocolo unidad 3PO diseñado para interactuar con seres orgánicos, programado principalmente para la etiqueta y el protocolo. Hablaba con fluidez más de siete millones de formas de comunicación, y desarrolló una personalidad exigente y propensa a las preocupaciones a lo largo de sus muchas décadas de operación. Junto con su contraparte, el droide astromecánico R2-D2, C-3PO constantemente se encontró involucrado directamente en momentos cruciales de la historia galáctica, y ayudó a salvar la galaxia en muchas ocasiones"
             },
             {
@@ -136,7 +136,7 @@
                 "altura": "1.08 m",
                 "nacimiento": "DESCONOCIDO",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/10",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest/scale-to-width-down/337?cb=20150926172435",
+                "imagen": "data:image/jpeg;base64,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",
                 "descripcion": "Un droide astromecánico serie R2 manufacturado por Industrias Automaton con programación masculina. Un ingenioso y valiente droide, R2-D2 sirvió a una multitud de maestros a lo largo de su vida. R2 nunca recibió un borrado completo de memoria ni recibió programación nueva, lo que resultó en su actitud aventurera e independiente. A menudo viéndose implicado en momento vitales de la historia galáctica, su valentía e ingenio salvaron a la galaxia repetidas veces"
             }
         ]
@@ -157,7 +157,7 @@
                 "altura": "0.66 m",
                 "nacimiento": "896 ABY",
                 "planeta": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d6/Yoda_SWSB.png/revision/latest/scale-to-width-down/350?cb=20180105191224",
+                "imagen": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/yoda-1568794702.jpeg?crop=0.502xw:1.00xh;0.321xw,0&resize=640:*",
                 "descripcion": "Era un reverenciado Maestro Jedi que sirvió como Gran Maestro de la Orden Jedi en los últimos días de la República Galáctica. Era famoso dentro de la Orden por su sabiduría, poderes de la Fuerza y combate con sables de luz, y vivió durante casi 900 años. Su tiempo durante los últimos días de la Orden Jedi y más allá lo convirtió en una figura consecuente en la historia galáctica"
             },
             {
@@ -168,7 +168,7 @@
                 "altura": "1.93 m",
                 "nacimiento": "102 ABY",
                 "planeta": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/b/b8/Dooku_Headshot.jpg/revision/latest/scale-to-width-down/350?cb=20200115140857",
+                "imagen": "http://2.bp.blogspot.com/-DDd571xxZnU/VPyAAxkdzBI/AAAAAAAACmc/vpq5cXs9JoA/s1600/dooku.jpg",
                 "descripcion": "Fue un Lord Sith que lideró la Confederación de Sistemas Independientes como Jefe de Estado durante las Guerras Clon. A pesar de que una vez fue un Maestro Jedi, Dooku dejó la Orden Jedi y la República Galáctica después de desilusionarse con la corrupción en el gobierno. Dando la espalda a la luz, Dooku se unió al lado oscuro de la Fuerza y se convirtió en el aprendiz de Darth Sidious, un Señor Oscuro de los Sith, tomando el nombre de Darth Tyranus y reclamando su título como el Conde de Serenno. Con su maestro, que era secretamente el Canciller Supremo Sheev Palpatine, Dooku conspiró para derrocar tanto a la República como a los Jedi para que los Sith pudieran reclamar su anterior dominio. Con este fin, supervisó un creciente movimiento Separatista que finalmente resultó en la formación de la Confederación de Sistemas Independientes. Además de reunir a cientos de sistemas estelares rebeldes para la causa Separatista, Dooku estuvo involucrado en la creación de los soldados clon del Gran Ejército de la República, suministrando a los kaminoanos una plantilla de clonación, Jango Fett, así como un biochip de modificación conductual que contenía el Protocolo Clon 66. Como resultado de las maquinaciones de Dooku y Sidious, la galaxia se vio envuelta en las Guerras Clon en el 22 ABY"
             },
             {
@@ -179,7 +179,7 @@
                 "altura": "1.73 m",
                 "nacimiento": "84 ABY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/10",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/98/Palpatine-TROS-infobox.jpg/revision/latest/scale-to-width-down/350?cb=20200423044005",
+                "imagen": "http://pm1.narvii.com/6479/59f329743a40f1f7d9aee81547972d6b25b1c675_00.jpg",
                 "descripcion": "Nacido como Sheev Palpatine y también conocido simplemente como el Emperador, fue un hombre humano Señor Oscuro de los Sith y Emperador del Imperio Galáctico, que gobernó desde el 19 ABY hasta el 4 DBY. Ascendiendo al poder en el Senado de la República como senador de Naboo, el Lord Sith en secreto conservó dos identidades, Sidious y Palpatine, usando ambas para avanzar en su carrera política. Orquestando la caída de la República Galáctica y de la Orden Jedi a través de las Guerras Clon, y luego estableciendo su reinado sobre la galaxia que duró hasta su muerte en la Batalla de Endor. Sin embargo, el lado oscuro de la Fuerza dio lugar a poderes que permitieron al Emperador regresar de la tumba"
             },  
             {
@@ -190,7 +190,7 @@
                 "altura": "1.83 m",
                 "nacimiento": "32 ABY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/5",
-                "imagen": "https://static.wikia.nocookie.net/disney/images/3/3a/Captain_Rex_3.jpg/revision/latest?cb=20170322024507&path-prefix=es",
+                "imagen": "http://pm1.narvii.com/6343/cc42db10ca9fd084970c6738a9e24c429e9d0a00_00.jpg",
                 "descripcion": "Su designación era CT-7567 fue un veterano Capitán Clon que dirigió la aclamada Legión 501 del Gran Ejército de la República durante las Guerras Clon. Rex sirvió más adelante como capitán y comandante en la Alianza para Restaurar la República durante la Guerra Civil Galáctica. Criado y entrenado en Kamino, CT-7567 entró al servicio de la República Galáctica en la Batalla de Geonosis, en el 22 ABY. 7567 se forjó la reputación de un honorable comandante ante Jedi y soldados clon por igual, llegando a ser conocido como uno de los mejores y más duros soldados del Gran Ejército de la República. Con el tiempo, tomó el apodo de Rex. Como capitán de la 501, Rex sirvió como segundo al mando del General Jedi Anakin Skywalker, cuya valentía y heterodoxia en batalla llegó a compartir. Rex fue muy amigo del Comandante Clon Mariscal Cody, cuya relación era un reflejo de la de sus respectivos Generales Jedi, Skywalker y Obi-Wan Kenobi. Los cuatro a menudo recibieron misiones conjuntas para coordinar sus campañas en primera línea contra la Confederación de Sistemas Independientes"
             },
             {
@@ -223,7 +223,7 @@
                 "altura": "1.7 m",
                 "nacimiento": "35 DBY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/3",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/2/2b/Rey_TROS_Fathead.png/revision/latest/scale-to-width-down/326?cb=20191018183720",
+                "imagen": "https://sm.ign.com/t/ign_latam/screenshot/default/asd_xbvs.1280.jpg",
                 "descripcion": "Una mujer humana sensible a la Fuerza, fue una Jedi que luchó por la Resistencia contra la Primera Orden durante la Era de la Nueva República. Aunque nació como Rey Palpatine, no era consciente de su linaje como nieta del Emperador Sheev Palpatine y se refirió a sí misma simplemente como Rey, creyendo que no era nadie. Endurecida por los duros desiertos de Jakku, Rey aprendió a sobrevivir como carroñera, convirtiéndose en una hábil mecánica, piloto y combatiente en el proceso. Después de descubrir su conexión latente con la Fuerza, Rey se esforzó por aprender el camino de los Jedi mientras intentaba entender su vínculo con el Líder Supremo Kylo Ren"
             },
             {
@@ -234,7 +234,7 @@
                 "altura": "1.78 m",
                 "nacimiento": "11 DBY",
                 "planeta": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/92/Finn_Advanced_Graphics_TROS.png/revision/latest?cb=20200105031349",
+                "imagen": "https://i.ebayimg.com/images/g/rBAAAOSwq19XC24Z/s-l500.jpg",
                 "descripcion": "Finn fue el apodo de FN-2187, un soldado de asalto humano sensible a la Fuerza que sirvió a la Primera Orden hasta su huida y posterior deserción a la Resistencia durante la Guerra Primera Orden-Resistencia. Aunque entrenado desde el nacimiento para ser un soldado leal y obediente, la conciencia de FN-2187 entró en conflicto con los métodos de la Primera Orden. Durante un tiempo no estuvo dispuesto a apoyar a la Resistencia, con la esperanza de escapar del conflicto galáctico en lugar de luchar por una causa que creía estaba condenada al fracaso. A medida que la galaxia se consumía por la guerra, el soldado renegado se vio finalmente obligado a decidir dónde estaban sus verdaderas lealtades"
             },
             {
@@ -256,7 +256,7 @@
                 "altura": "2.18 m",
                 "nacimiento": "4 DBY",
                 "planeta": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/9d/SnokeTLJ.png/revision/latest/scale-to-width-down/350?cb=20180113005803",
+                "imagen": "https://www.cinemascomics.com/wp-content/uploads/2020/10/origen-snoke-star-wars.jpg",
                 "descripcion": "Fue una creación genética humanoide que gobernó la Primera Orden como Líder Supremo durante la Era de la Nueva República. Posiblemente inconsciente de su verdadera naturaleza, Snoke era una invención genética artificial creada en el planeta Exegol por el resucitado Señor Oscuro de los Sith y Emperador Galáctico Darth Sidious. Aunque fue diseñado para ser un conducto que el Lord Sith pudiera manipular, Snoke poseía una mente independiente y una conexión profunda con el lado oscuro de la Fuerza, sin embargo, no era un Sith. Tenía un profundo conocimiento de la tradición arcana y redescubrió muchos de los secretos perdidos sobre la Fuerza dentro de las Regiones Desconocidas, mientras derrotaba a innumerables adversarios con su astuta manipulación y dominio de la Fuerza"
             },
             {
@@ -267,7 +267,7 @@
                 "altura": "1.8 m",
                 "nacimiento": "64-59 ABY",
                 "planeta": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/c/c1/Tarkininfobox.jpg/revision/latest/top-crop/width/360/height/450?cb=20160918123818",
+                "imagen": "https://upload.wikimedia.org/wikipedia/en/5/5a/Grand_Moff_Tarkin.png",
                 "descripcion": "Fue un humano que llegó a ser de los más importantes oficiales del Imperio Galáctico, uno de los primeros en obtener el alto rango de Gran Moff. Fue el creador de la doctrina Tarkin, la cual tuvo su encarnación clave en la Estrella de la Muerte. Era nativo del planeta Eriadu, donde la familia Tarkin tenía una larga historia política. Tarkin inició su carrera sirviendo en la fuerza de seguridad de la República de las regiones exteriores. Después se retiró y entró en la política, iniciando como Gobernador Teniente de Eriadu y el Sector Seswenna. Después de esto volvió a la milicia bajo las órdenes del Canciller Supremo Palpatine, ganando poder hasta llegar a ser gobernador de macrosectores bajo el título de Gran Moff. Durante este tiempo, Tarkin conoció los diseños de su amigo Raith Sienar de una estación de batalla planetaria y expedicionaria. Convencido del potencial del diseño, Tarkin le presentó los diseños a Palpatine, diseños de una estación que más tarde se convertiría en la temible Primera Estrella de la Muerte"
             },
             {
@@ -278,7 +278,7 @@
                 "altura": "1.72 m",
                 "nacimiento": "2 DBY",
                 "planeta": "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/planetas/7",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/8/8a/Poe_Dameron_Advanced_Graphics_TROS.png/revision/latest?cb=20200105031746",
+                "imagen": "https://i.pinimg.com/originals/05/7c/ef/057cef844aa1fd04235316d51b55827d.jpg",
                 "descripcion": "Fue un piloto humano que sirvió como comandante en la Nueva República y, más tarde, la Resistencia durante su conflicto con la Primera Orden. Hijo de la Teniente Shara Bey y del Sargento Kes Dameron de la Alianza para Restaurar la República, Dameron siguió los pasos de su madre y se convirtió en piloto al servicio de la Flota de Defensa de la Nueva República como comandante del Escuadrón Estoque, pero se desilusionó con la inacción de la República frente a las violaciones del Concordato Galáctico por parte de la Primera Orden. Dameron desertó a la Resistencia, donde se convirtió en uno de los operativos más confiables de la General Leia Organa. Dameron voló bajo el indicativo de Líder Negro mientras pilotaba su caza estelar T-70 Ala-X especializado, Negro Uno"
             }
         ]

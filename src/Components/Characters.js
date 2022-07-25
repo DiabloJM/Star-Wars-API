@@ -15,20 +15,20 @@ function Characters(props) {
 
     return (
         <div className="List">
-            <input type="text" placeholder="Buscar" onChangeText={(text) => setFilter(text)}/>
-            <Pagination count={countPage} page={currentPage + 1} onChange={handleChange} variant="outlined" shape="rounded"/>
+            <input className="SearchBar" type="text" placeholder="Buscar..." onChange={e => setFilter(e.target.value)} />
+            <Pagination count={countPage} page={currentPage + 1} onChange={handleChange} size="large" variant="outlined" shape="rounded" className="Pagination"/>
             <div className="row">
             {
-                characterjson[currentPage].resultados.map((character) => (
+                characterjson[currentPage].resultados.filter(characterjson => characterjson.nombre.includes(filter)).map(character => 
                         <Character
                             key={character.id}
                             nombre={character.nombre}
                             imagen={character.imagen}
                         />
-                ))
+                )
                 }
             </div>
-            <Pagination count={countPage} page={currentPage + 1} onChange={handleChange} variant="outlined" shape="rounded"/>
+            <Pagination count={countPage} page={currentPage + 1} onChange={handleChange} size="large" variant="outlined" shape="rounded" className="Pagination"/>
         </div>
     );
 }

@@ -20,7 +20,6 @@
 }
 
 .row {
-    display: flex;
     flex-direction: row;
     margin-left: 20px;
     margin-right: 20px;

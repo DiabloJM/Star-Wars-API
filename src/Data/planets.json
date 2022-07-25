@@ -15,7 +15,7 @@
                 "rotacion": "Es un campo de asteroides",
                 "orbita": "Es un campo de asteroides",
                 "clima": "Anteriormente arido, ahora ninguno",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d2/Polis_Massa_surface.jpg/revision/latest/scale-to-width-down/350?cb=20181109014358",
+                "imagen": "https://media.moddb.com/images/mods/1/15/14249/polismassa.JPG",
                 "descripcion": "Era un campo de asteroides ubicado en el sector Subterrel de los Territorios del Borde Exterior de la galaxia, lejos de las principales rutas hiperespaciales. En algún momento, Polis Massa fue un planeta ubicado dentro del sistema del mismo nombre. El planeta fue el hogar de un pueblo subterráneo llamado eellayin hasta que fue destruido por un misterioso cataclismo",
                 "nativos": [
                 "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/1",
@@ -29,7 +29,7 @@
                 "rotacion": "DESCONOCIDO",
                 "orbita": "DESCONOCIDO",
                 "clima": "Temperado",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d7/Corellia-SWCT.png/revision/latest/scale-to-width-down/350?cb=20190128020739",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiQvjb9aN4EA6hM729ltJEva7JN4hMQsE_Lax8FcPFWrOvjbX8aGP6TYOFiFdWQeCvZ6U&usqp=CAU",
                 "descripcion": "Corellia era un planeta ubicado en los Mundos del Núcleo de la galaxia, conocido por sus pilotos y sus grandes naves estelares. Naves como el Halcón Milenario y las naves Imperiales se construyeron en Corellia",
                 "nativos": [
                 "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/3"
@@ -42,7 +42,7 @@
                 "rotacion": "26.8 Horas",
                 "orbita": "352 Dias",
                 "clima": "Fria",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/f/ff/Jakku-PoeDameronFlightLog.png/revision/latest/scale-to-width-down/350?cb=20170805083652",
+                "imagen": "https://upload.wikimedia.org/wikipedia/ca/7/7f/Tatooine.jpg",
                 "descripcion": "Jakku era un remoto planeta desierto ubicado en el sistema del mismo nombre, dentro de las Extensiones Occidentales del Borde Interior de la galaxia. Aunque muchos en la galaxia lo consideraban distante y sin algún valor, Jakku fue el lugar de importantes sucesos que darían forma a la historia galáctica. En el 5 DBY, fue el sitio de la decisiva Batalla de Jakku, la cual puso fin a la Guerra Civil Galáctica en favor de la Nueva República. Una generación más tarde, el planeta fue hogar de la carroñera Rey, quien se involucró en los acontecimientos de la Guerra Fría después de ayudar al antiguo soldado de asalto de la Primera Orden Finn y al droide astromecánico BB-8 a escapar del mundo con un mapa que conducía al desaparecido Jedi Luke Skywalker",
                 "nativos": [
                 "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/19"
@@ -55,7 +55,7 @@
                 "rotacion": "DESCONOCIDO",
                 "orbita": "DESCONOCIDO",
                 "clima": "Temperado",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/8/8a/Kashyyk_Ghost_Raid.png/revision/latest/scale-to-width-down/350?cb=20160914094510",
+                "imagen": "http://pm1.narvii.com/6603/55590a48b178e458276d75e5088b3455b889f57f_00.jpg",
                 "descripcion": "Kashyyyk fue un planeta cubierto de árboles wroshyr localizado en el cuadrante occidental de la Galaxia y el mundo natal de los wookiees. Era miembro de la República Galáctica y tras las Guerras Clon fue esclavizado por el Imperio Galáctico. El planeta estaba clasificado por el Imperio como G5-623",
                 "nativos": [
                 "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/4"
@@ -68,7 +68,7 @@
                 "rotacion": "27 Horas",
                 "orbita": "463 Dias",
                 "clima": "DESCONOCIDO",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/5/52/Kamino-DB.png/revision/latest/scale-to-width-down/350?cb=20160913200828",
+                "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d71e379b-3f09-42b2-b3fe-26548591a750/dev7jc2-0871246f-c7b7-4390-a4cc-b1f7ad95ece1.png/v1/fill/w_1280,h_1280,q_80,strp/kamino_star_wars_planet_collection_by_ericwhitted_dev7jc2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2Q3MWUzNzliLTNmMDktNDJiMi1iM2ZlLTI2NTQ4NTkxYTc1MFwvZGV2N2pjMi0wODcxMjQ2Zi1jN2I3LTQzOTAtYTRjYy1iMWY3YWQ5NWVjZTEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.DBcS6U7MIEGzXjxA-KsMnoYcCzWBMGn82Ub7nb1y8Ug",
                 "descripcion": "Kamino era un planeta acuático ubicado en un sistema estelar extragaláctico que se encontraba al sur de la galaxia satélite Laberinto Rishi y más allá de la galaxia conocida. Estaba habitado por los kaminoanos, una raza de seres altos y esbeltos que eran considerados como una especie misteriosa con tendencia al hermetismo. También eran conocidos por su tecnología de clonación que finalmente condujo a la creación de un ejército clon para la República Galáctica",
                 "nativos": [
                 "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/16",
@@ -82,7 +82,7 @@
                 "rotacion": "DESCONOCIDO",
                 "orbita": "412 Dias",
                 "clima": "Abrasador",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/6/61/Mustafar-TROSGG.png/revision/latest/scale-to-width-down/350?cb=20201111174744",
+                "imagen": "https://i.pinimg.com/474x/20/40/8e/20408e297b83c94841a16d03bf553f2b--star-wars-planets-d-art.jpg",
                 "descripcion": "Mustafar era un pequeño planeta volcánico ubicado en el sistema Mustafar, situado entre dos gigantes gaseosos en los Territorios del Borde Exterior que se alió con la Confederación de Sistemas Independientes durante las Guerras Clon y más tarde fue tomado por el Imperio Galáctico después de que la Tecno Unión se nacionalizara al final del conflicto",
                 "nativos": [
                 "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/18"
@@ -95,7 +95,7 @@
                 "rotacion": "DESCONOCIDO",
                 "orbita": "4.818 Dias",
                 "clima": "Templado",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d4/Yavin-4-SWCT.png/revision/latest/scale-to-width-down/350?cb=20170924222729",
+                "imagen": "https://swrpggm.com/wp-content/uploads/2021/06/Yavin-4_FE.png",
                 "descripcion": "Yavin 4 fue la cuarta luna en órbita del gigante gaseoso Yavin Prime, cubierta de junglas. En algún momento durante la Guerra Civil Galáctica, albergó la base principal de la Alianza Para Restaurar la República, un grupo de luchadores de la resistencia que se oponían a la tiranía del Imperio Galáctico. Tras una gran batalla que tuvo lugar alrededor de Yavin, la Alianza trasladó su base a Hoth",
                 "nativos": [
                 "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/24"
@@ -108,7 +108,7 @@
                 "rotacion": "19 Horas",
                 "orbita": "366 Dias",
                 "clima": "Calido y Seco",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/5/5e/Mandalore_SWCT.png/revision/latest/scale-to-width-down/350?cb=20170913230013",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVPwv2h__rImwUoBDPf7DATKNShuGOP7Ra7n9kgs1DXq08uxrnwQcapu4RPUKPBpX6F4&usqp=CAU",
                 "descripcion": "Mandalore fue un planeta ubicado en los Territorios del Borde Exterior. Era el mundo natal de los mandalorianos, un pueblo temible y belicista que luchó contra los Jedi y asaltó su templo durante la caída de la Antigua República. Con una armadura distintiva a menudo hecha de beskar, eran temidos en toda la galaxia y tenían influencia política sobre otros dos mil sistemas estelares",
                 "nativos": []
             },
@@ -119,7 +119,7 @@
                 "rotacion": "DESCONOCIDO",
                 "orbita": "DESCONOCIDO",
                 "clima": "Arido",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/b/b0/Tatooine_TPM.png/revision/latest/scale-to-width-down/350?cb=20131214162357",
+                "imagen": "http://4.bp.blogspot.com/-IUO_O-bojLM/TWE3Iy01V4I/AAAAAAAAA_w/UaPdiVYWbgo/s1600/Star+Wars+-+Tattoine+09.jpg",
                 "descripcion": "Tatooine era un planeta desértico circunvolucional escasamente habitado ubicado en los Territorios del Borde Exterior de la galaxia. Servio como el planeta natal de los influyentes Anakin y Luke Skywalker, que le darían forma a la historia galáctica. Parte de un sistema estelar binario, el planeta era oprimido por los soles abrasadores, lo que provocó que el mundo careciera de las aguas superficiales necesarias para sostener grandes poblaciones. Como resultado, muchos residentes del planeta sacaron agua de la atmósfera a través de granjas de humedad",
                 "nativos": [
                 "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/11",
@@ -133,7 +133,7 @@
                 "rotacion": "26 Horas",
                 "orbita": "312 Dias",
                 "clima": "Templado",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/f/f0/Naboo_planet.png/revision/latest/scale-to-width-down/350?cb=20190928214307",
+                "imagen": "https://i.pinimg.com/originals/63/45/ab/6345abb4dd970d266dc4353a30a3ddc1.png",
                 "descripcion": "Naboo era un pequeño mundo pastoral[37] en el Borde Medio,[1] ubicado cerca de la frontera de los Territorios del Borde Exterior.[9] A diferencia de la mayoría de los otros mundos, el antiguo planeta carecía de un núcleo fundido, y en su lugar comprendía un conglomerado de cuerpos grandes y rocosos que formaban una red de túneles y cuevas inundadas. Los nativos gungans, que construyeron sus hogares en las aguas de Naboo, rara vez se aventuraban en el núcleo, temiendo a las voraces bestias marinas que residían[1] en áreas como las Cuevas de Eleuabad",
                 "nativos": [
                 "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/6",
@@ -148,7 +148,7 @@
                 "rotacion": "24 Horas",
                 "orbita": "365 Dias",
                 "clima": "Templado",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/8/84/CoruscantGlobeE1.png/revision/latest?cb=20190503173154",
+                "imagen": "https://i.pinimg.com/736x/ba/fa/98/bafa98d3bddce1649ad3996db6308f5d.jpg",
                 "descripcion": "Coruscant, también conocido como Centro Imperial durante el reinado del Imperio Galáctico, fue una ecumenópolis —un planeta cubierto de ciudad, colectivamente conocida como Ciudad Galáctica— en el sistema Coruscant de los Mundos del Núcleo. Aunque era asunto de debate entre los historiadores, en general se creía que Coruscant era el planeta natal original de la humanidad. Destacado por su cultura cosmopolita y sus enormes rascacielos, la población de Coruscant consistía en aproximadamente un billón de ciudadanos pertenecientes a un amplio abanico de especies humanoides y alienígenas. Además, la ubicación estratégica de Coruscant al final de varias grandes rutas hiperespaciales permitió que creciera en poder e influencia, haciendo que el planeta-ciudad superara a sus rivales iniciales y se convirtiera en un núcleo galáctico de cultura, educación, finanzas, artes, política y tecnología. Albergaba varios puntos de gran interés, incluido el Templo Jedi, la Plaza de los Monumentos y el Edificio del Senado Galáctico",
                 "nativos": []
             },
@@ -159,7 +159,7 @@
                 "rotacion": "24 Horas",
                 "orbita": "365 Dias",
                 "clima": "Montañoso",
-                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/4/4a/Alderaan.jpg/revision/latest/scale-to-width-down/350?cb=20100723184830",
+                "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d71e379b-3f09-42b2-b3fe-26548591a750/dev17yq-ce816241-f6aa-444a-94b6-7104f945e050.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q3MWUzNzliLTNmMDktNDJiMi1iM2ZlLTI2NTQ4NTkxYTc1MFwvZGV2MTd5cS1jZTgxNjI0MS1mNmFhLTQ0NGEtOTRiNi03MTA0Zjk0NWUwNTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XmhMzTExSOrmbu-HzPseIJ_H09JyCOV8S3UrqpE9Kfg",
                 "descripcion": "Después del surgimiento del Imperio Galáctico de Sheev Palpatine, Alderaan desempeñó un papel fundamental en el establecimiento de la Alianza Rebelde, un movimiento que buscaba restaurar los valores de la Antigua República. Debido a sus lazos con la Alianza, el planeta fue destruido cuando el Gran Moff Wilhuff Tarkin decidió probar el superláser de la Estrella de la Muerte, una estación de batalla de tamaño lunar desarrollada por el Imperio, con toda su fuerza. Entre los pocos sobrevivientes de ese desastre estaba la princesa Leia Organa, hija adoptiva de Bail y Breha Organa y heredera de la casa real de Alderaan",
                 "nativos": []
             }
@@ -180,7 +180,7 @@
             "rotacion": "DESCONOCIDO",
             "orbita": "DESCONOCIDO",
             "clima": "DESCONOCIDO",
-            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/0/04/Ahch-To_TLJTVD.png/revision/latest/scale-to-width-down/350?cb=20190604002222",
+            "imagen": "http://pm1.narvii.com/6689/e7475e8cd36b6ce97767cf77f3308a16f3fee406_00.jpg",
             "descripcion": "Ahch-To era un planeta principalmente cubierto de agua, con numerosas islas rocosas cubiertas de árboles verdes ubicados en las Regiones Desconocidas. Fue el lugar de nacimiento de la Orden Jedi y albergaba los antiguos textos Jedi. Tres décadas después de la Guerra Civil Galáctica, sirvió como hogar del Maestro Jedi Luke Skywalker, quien se exilió en busca del primer Templo Jedi después de que Kylo Ren destruyera su templo y a sus estudiantes Jedi. Luego de que la Resistencia juntara dos fragmentos de un mapa para revelar la ubicación de Skywalker, Rey viajó a Ahch-To en el Halcón Milenario acompañada por R2-D2 y Chewbacca, en su búsqueda",
             "nativos": []
             },
@@ -191,7 +191,7 @@
             "rotacion": "DESCONOCIDO",
             "orbita": "DESCONOCIDO",
             "clima": "Arido",
-            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/6/6d/Geonosis_AotC.png/revision/latest/scale-to-width-down/350?cb=20161025214407",
+            "imagen": "https://i.pinimg.com/originals/21/c7/3a/21c73ae28de02eaeee9dc34a22e0aadf.jpg",
             "descripcion": "Geonosis, llamado Geonosia por algunos nativos, fue el mundo natal de los geonosianos. Un planeta desértico e inhóspito, Geonosis fue la primera capital de la Confederación de Sistemas Independientes, albergando sus principales fundiciones de droides. Fue el lugar en el que tuvo lugar la Primera Batalla de Geonosis, la primera batalla del conflicto conocido como las Guerras Clon. Después de la batalla, Geonosis fue invadido por la República Galáctica",
             "nativos": []
             },
@@ -202,7 +202,7 @@
             "rotacion": "DESCONOCIDO",
             "orbita": "DESCONOCIDO",
             "clima": "Periodos de lluvias torrenciales",
-            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/1/1c/Dagobah.jpg/revision/latest/scale-to-width-down/350?cb=20061117132132",
+            "imagen": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/star-wars-episode-7/6/68/Dagobah_2.jpg",
             "descripcion": "Dagobah era un planeta en el sistema Dagobah, y uno de los lugares más puros de la galaxia dentro de la Fuerza. Un mundo lejano lleno de pantanos y bosques, sirvió como refugio para el Gran Maestro Jedi Yoda durante su exilio tras la destrucción de la Orden Jedi. Fue allí donde Luke Skywalker recibió un entrenamiento avanzado en los caminos de la Fuerza bajo la tutela del Maestro Jedi Yoda y más tarde sería testigo de su muerte y transformación en la Fuerza",
             "nativos": []
             },
@@ -213,7 +213,7 @@
             "rotacion": "23 Horas",
             "orbita": "549 Dias",
             "clima": "Frio",
-            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/1/1d/Hoth_SWCT.png/revision/latest/scale-to-width-down/350?cb=20170802030704",
+            "imagen": "https://i.pinimg.com/736x/b9/b3/cf/b9b3cff1cec18f75e19d4d4f9cf8cfb4.jpg",
             "descripcion": "Hoth era un helado y remoto planeta que fue el sexto planeta del sistema estelar del mismo nombre. En particular, albergó la Base Eco, sede temporal de la Alianza para Restaurar la República, hasta que el Imperio Galáctico localizó a los rebeldes, iniciando una gran confrontación conocida como la Batalla de Hoth",
             "nativos": []
             }

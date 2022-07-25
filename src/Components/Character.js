@@ -17,7 +17,7 @@ export default function Character(props){
                 />
                 <div className="card-body">
                     <h3 className="card-title">{nombre}</h3>
-                    <Link to="/detallesPersonaje" 
+                    <Link to="/detallesPersonaje/" 
                     params={{nombre: nombre, imagen: imagen, especie: props.especie, genero: props.genero, altura: props.altura,
                     nacimiento: props.nacimiento, planeta: props.planeta, descripcion: props.descripcion}} >Ver</Link>
                 </div>
